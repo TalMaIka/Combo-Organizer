@@ -30,12 +30,12 @@ To get a local copy up and running, follow these steps:
    ```
 2.Install required dependencies:
    ```sh
-   pip install -r requirements.txt
+   cd Combo-Organizer && pip install -r requirements.txt
    ```
 
 3. Run the program:
  ```sh
-   python main.py
+   python3 main.py
    ```
 
 <!-- Usage -->
