@@ -25,12 +25,16 @@
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
-   ```sh
+  ```sh
    git clone https://github.com/TalMaIka/Combo-Organizer.git
    ```
-
-2. Run the program:
+2.Install required dependencies:
    ```sh
+   pip install -r requirements.txt
+   ```
+
+3. Run the program:
+ ```sh
    python main.py
    ```
 
